@@ -1,0 +1,12 @@
+{
+  "name": "heroku-docker-r-plumber-app",
+  "stack": "container",
+  "description": "This is an example Plumber application, which uses heroku-docker-r for Heroku.",
+  "keywords": [
+    "r",
+    "plumber"
+  ],
+  "repository": "https://github.com/virtualstaticvoid/heroku-docker-r-plumber-app",
+  "logo": "https://github.com/virtualstaticvoid/heroku-docker-r-plumber-app/raw/master/logo.png",
+  "success_url": "/"
+}
