@@ -8,4 +8,4 @@ FROM virtualstaticvoid/heroku-docker-r:plumber
 ENV PORT=8080
 
 # override the base image CMD to run Plumber
-CMD ["/usr/bin/R", "--no-save", "--gui-none", "-f /app/app.R"]
+CMD ["/usr/bin/R", "--no-save", "--gui-none", "-f", "/app/app.R"]
